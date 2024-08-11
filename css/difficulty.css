@@ -1,0 +1,39 @@
+
+h1{
+    margin-bottom: 70px;
+}
+
+button{
+    width:250px;
+    height: 80px;
+    cursor: pointer;
+    background-color: #fff;
+    font-size: 1.2rem;
+    
+
+}
+
+a{
+   
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: 2px solid  #6757D9;
+    text-decoration: none;
+    padding: 12px;
+    background-color: #fff;
+    cursor: pointer;
+    margin-top: 50px;
+
+   
+}
+a:hover{
+    background-color: #6757D9;
+    color: #fff;
+    transition: all 0.2s ease-in;
+    
+
+
+}

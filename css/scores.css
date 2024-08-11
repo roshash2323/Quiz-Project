@@ -1,0 +1,52 @@
+h3{
+    font-size: 2.2rem;
+    margin-bottom: 200px;
+}
+
+
+li{
+    list-style: none;
+    background-color: #fff;
+    width:500px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    align-items: center;
+    padding:15px;
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+   
+}
+li p{
+   width:100%;
+   padding-left: 25px;
+    font-size: 1.5rem;
+    
+
+}
+
+
+
+li span:first-child{
+    background-color:#6757D9 ;
+    width:35px;
+    height:35px;
+    line-height: 35px;
+    text-align: center;
+    color:#fff;
+    border-radius: 12px;
+
+}
+button{
+    margin-top: 70px;
+}
+
+
+button:hover{
+    background-color:#6757D9 ;
+    color: #fff;
+   
+ 
+}
+

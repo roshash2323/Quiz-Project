@@ -1,0 +1,39 @@
+div{
+
+    background-color: #6757D9;
+    width:80px;
+    height:80px;
+    border-radius: 12px;
+    margin-bottom: 70px;
+    text-align: center;
+    line-height: 80px;
+    color: #fefefe;
+    font-size: 1.5rem;
+ 
+}
+input{
+    margin-bottom: 70px;
+    padding:20px;
+    border: none;
+    border-radius: 14px;
+    width:300px;
+    background-color: transparent;
+    border: 3px solid #fff;
+
+}
+input:hover{
+    border: 3px solid #6757D9 ;
+    transition: all 0.2s ease-in;
+}
+
+a , button{
+    width:300px;
+    color:#6757D9;
+    padding:15px;
+
+}
+
+a:hover{
+    color:#fff
+}
+
